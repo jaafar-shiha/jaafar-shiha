@@ -14,5 +14,4 @@ Skills: Flutter / Dart / JS / Java / CSS
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaafar-shiha)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaafar-shiha)  
 
