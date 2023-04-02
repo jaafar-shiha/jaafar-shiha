@@ -45,7 +45,7 @@
 
 <!--#### How to get in touch with me?
 <p left="center">
-<a href="n: https://www.linkedin.com/in/jaafarshiha">
+<a href="https://www.linkedin.com/in/jaafarshiha">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 
