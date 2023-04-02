@@ -13,16 +13,32 @@
 - 📚 Currently learning about **clean architecture**, **CI/CD**, and **node js**.
 
 #### What I like to discuss? 
-- 💬 Ask me about `flutter development` `design patterns` `data structures` `clean code` `requirement analysis` `state management` and `unit tests`.
+- 💬 Ask me about `flutter development` `design patterns` `architecture patterns` `data structures` `clean code` `requirement analysis` `state management` and `unit tests`.
 
 #### What my skill set looks like?
 - 🖥 **Mobile development:** 
-  - **📜 Languages:** • `🧙🏻 Dart` 
+  - **📜 Languages:** • `Dart` 
   - **🔬 Frameworks:**  
     - **📱 Mobile:** • [Flutter](https://flutter.dev/)
 
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `🧙🏻‍♂️ Java`
+  - **📜 Languages:** • `Java`
   - **🔭 Frameworks:** • [Servlet](https://docs.oracle.com/javaee/5/tutorial/doc/bnafe.html#:~:text=A%20servlet%20is%20a%20Java,applications%20hosted%20by%20web%20servers.)
-  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [SQLite](https://www.sqlite.org/index.html)
+  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [SQLite](https://www.sqlite.org/index.html) • [MySQL](https://www.mysql.com/)
  
+- 🎡 **Software development ecosystem:**
+  - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [GitLab](https://gitlab.com/gitlab-org)
+
+- 🧙‍♂️ **Coding pattern & principles:**
+  - **⚒ Patterns:**  • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 
+  
+- **🏗️ Code editors:**
+</a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://developer.android.com/studio"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" height=25></a>
+
+<!--Github Stats-->
+#### What my GitHub Stats look like?
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaafar-shiha&show_icons=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaafar-shiha&show_icons=true&layout=compact&langs_count=10"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=jaafar-shiha&count_private=true&show_icons=true&theme=cobalt" align="center"/>
+</p>
