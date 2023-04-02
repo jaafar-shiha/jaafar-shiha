@@ -42,3 +42,16 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaafar-shiha&show_icons=true&layout=compact&langs_count=10"/>
 <img height="180em" src="https://github-profile-trophy.vercel.app/?username=jaafar-shiha&count_private=true&show_icons=true&theme=cobalt" align="center"/>
 </p>
+
+<!--
+#### How to get in touch with me?
+<p left="center">
+<a href="n: https://www.linkedin.com/in/jaafarshiha">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+
+<a href="mailto:jaafar.h.shiha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
+-->
