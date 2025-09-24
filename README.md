@@ -10,7 +10,7 @@
 - 🏢 Working at **[Popsy](https://www.popsy.app)** as a **Senior Flutter Developer**.
 - 👨‍💻 Writing `Dart` `Java`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/jaafarshiha"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/jaafarshiha)-->.
-- 📚 Currently learning about **clean architecture**, **CI/CD**, and **node js**.
+- 📚 Currently learning about **React**, **Kotlin**, and **node js**.
 
 #### What I like to discuss? 
 - 💬 Ask me about `flutter development` `design patterns` `architecture patterns` `data structures` `clean code` `requirement analysis` `state management` and `unit tests`.
