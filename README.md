@@ -7,7 +7,7 @@
 - Have some experience with other cross-platform frameworks like React Native and Ionic.
 
 #### What I'm doing?
-- 🏢 Working at **[cNepho](https://cnepho.com/)** as a **Flutter Developer**.
+- 🏢 Working at **[Popsy](https://www.popsy.app)** as a **Senior Flutter Developer**.
 - 👨‍💻 Writing `Dart` `Java`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/jaafarshiha"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/jaafarshiha)-->.
 - 📚 Currently learning about **clean architecture**, **CI/CD**, and **node js**.
