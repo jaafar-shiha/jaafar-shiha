@@ -1,57 +1,72 @@
-### Hi there 👋!
+# Hi, I'm Jaafar 👋
 
+**Senior Mobile Developer (Flutter)** · Leipzig, Germany 🇩🇪
 
-#### Who am I?
-- I am Jaafar Shiha, a software engineer based in [Tartus](https://en.wikipedia.org/wiki/Tartus), [Syria](https://en.wikipedia.org/wiki/Syria). 
-- Mobile Application Developer with 5+ years of experience in cross-platform development, specializing in Flutter with additional experience in React Native and Ionic. Led apps serving 3M+ users, focusing on performance, scalability, and maintainability. Strong emphasis on clean architecture, efficient UI, and agile practices.
+I build and maintain production Flutter apps for Android and iOS, with a focus on stability, clean architecture, and the analytics that show whether a feature works. For 5+ years I've been the Flutter owner on my teams, covering everything from the UI layer down to native platform channels, CI/CD, and attribution.
 
-#### What I'm doing?
-- 🏢 Working at [Popsy](https://www.popsy.app/) as a Flutter Developer.
-- 👨‍💻 Writing Dart, and Java.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/jaafarshiha"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/jaafarshiha)-->.
-- 📚 Currently learning about swiftUI, kotlin and node js.
-
-#### What I like to discuss? 
-- 💬 Ask me about Flutter development, design patterns, architecture patterns, data structures, clean code, requirement analysis, user acquisition, Google Analytics, Google ADs Attribution, state management, CI/CD, clean architecture,
-   and unit tests.
-
-#### What my skill set looks like?
-- 🖥 Mobile development: 
-  - 📜 Languages: • Dart
-  - State mangement: [Bloc](https://bloclibrary.dev/#/), [Riverpod](https://riverpod.dev/), [Provider](https://pub.dev/packages/provider), [GetX](https://pub.dev/packages/get)
-  - 🔬 Frameworks:  
-    - 📱 Mobile: • [Flutter](https://flutter.dev/)
-
-- 🗄️ Back-end:
-  - 📜 Languages: • Java
-  - 🔭 Frameworks: • [Servlet](https://docs.oracle.com/javaee/5/tutorial/doc/bnafe.html#:~:text=A%20servlet%20is%20a%20Java,applications%20hosted%20by%20web%20servers.)
-  - 💾 Databases: • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [SQLite](https://www.sqlite.org/index.html) • [MySQL](https://www.mysql.com/)
- 
-- 🎡 Software development ecosystem:
-  - 📁 Code repository: • [Git](https://git-scm.com/) • [GitHub](https://github.com/) • [GitLab](https://gitlab.com/gitlab-org)
-
-- 🧙‍♂️ Coding pattern & principles:
-  - ⚒ Design Patterns:  • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 
-  
-- 🏗️ Code editors:
-<a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a> <a href="https://developer.android.com/studio"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" height=25></a>
-
-<!--Github Stats-->
-#### What my GitHub Stats look like?
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaafarShiha22&show_icons=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaafarShiha22&show_icons=true&layout=compact&langs_count=10"/>
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=jaafarShiha22&count_private=true&show_icons=true&theme=cobalt" align="center"/>
+<p>
+  <a href="https://www.linkedin.com/in/jaafarshiha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jaafar.h.shiha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!--#### How to get in touch with me?
-<p left="center">
-<a href="https://www.linkedin.com/in/jaafarshiha">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
+---
 
-<a href="mailto:jaafar.h.shiha@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
+### 🚀 What I'm working on
+
+- 🏢 **Flutter Developer at [Popsy](https://www.popsy.app/)**, a refurbished-electronics marketplace serving the GCC (KSA/UAE)
+- 📱 The Popsy app has **3.8M+ installs**, and I own the Flutter codebase end to end
+- 🧪 Currently learning **FastAPI** for the backend side and going deeper on Dart and Flutter internals
+
+### 🏆 Highlights
+
+- **Stability:** cut the app's crash rate substantially by systematically tracking down and fixing the top crash sources from production monitoring
+- **Internal analytics dashboard:** built one on my own initiative. It pulls Firebase Analytics/BigQuery, Sentry, Microsoft Clarity, and Google Ads into one place for the whole team, and it helped backend spot a request taking ~300 ms client-side against 20 ms server-side
+- **Attribution fixes:** restored broken Google Ads ↔ Firebase campaign attribution on **Android** (missing `AD_ID` permission) and **iOS** (ATT handling + SKAdNetwork config), which brought the iOS attribution gap down from ~50% to a few percent
+- **Native SDK integration:** integrated Checkout.com's native Risk SDK (Kotlin + Swift) into Flutter via platform channels for payment risk assessment
+- **Checkout funnel debugging:** traced an STC Pay drop-off to an OTP and phone-number mismatch caused by a broken endpoint, which recovered abandoned payments
+
+### 🛠️ Tech stack
+
+**Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin_(platform_channels)-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift_(platform_channels)-F05138?style=flat-square&logo=swift&logoColor=white)
+
+**State management & architecture**
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat-square)
+![Bloc](https://img.shields.io/badge/Bloc-00B4AB?style=flat-square)
+![Provider](https://img.shields.io/badge/Provider-4CAF50?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555555?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-555555?style=flat-square)
+
+**Firebase, analytics & monitoring**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-F57C00?style=flat-square&logo=firebase&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
+![Microsoft Clarity](https://img.shields.io/badge/Clarity-0078D4?style=flat-square)
+
+**Tooling & delivery**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-333333?style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Also worked with:** Python (scripting), Java, SQL (SQLite, MySQL, SQL Server), MongoDB
+
+### 💬 Ask me about
+
+Flutter architecture & state management · crash and performance debugging · platform channels · Firebase & Google Ads attribution · product analytics · CI/CD for mobile · unit testing
+
+### 🌍 Languages
+
+Arabic (native) · English (C1) · German (B1)
+
+---
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaafar-shiha&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaafar-shiha&layout=compact&langs_count=6&hide_border=true" alt="Top languages"/>
 </p>
--->
